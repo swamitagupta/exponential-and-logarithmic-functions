@@ -12,6 +12,7 @@ To start, choose one of the topics below.
 | ----------- |
 | [Is a function exponential?](is-this-an-exponential-function.md)|
 | [Expand a logarithm](expand-logarithms.md) |
+| [Write an equation for an exponential function](write-an-equation-for-an-exponential-function.md) |
 
 
 ## Contributors are welcome!
