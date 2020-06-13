@@ -1,3 +1,6 @@
+<p align="center"><img width="100%" src="open-source-math-logo.png" /></p>
+
+
 # exponential-and-logarithmic-functions
 
 This repo. consists of math practice questions with answers. To motivate you to practice, the answers are hidden until you click to reveal them. Practice away!
