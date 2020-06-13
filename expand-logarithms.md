@@ -22,7 +22,7 @@ log x + log y + 2 log z
 <p>   </p>
 
 # Question 3
-Expand <img src="https://render.githubusercontent.com/render/math?math=\frac{x}{y}">
+Expand <img src="https://render.githubusercontent.com/render/math?math=log(\frac{x}{y})">
 
 <details><summary>Click the arrow for the answer.</summary>
 <p>
@@ -45,7 +45,7 @@ Expand log<sub>5</sub> x<sup>3</sup>
 <p>   </p>
 
 # Question 5
-Expand <img src="https://render.githubusercontent.com/render/math?math=x^2">
+Expand <img src="https://render.githubusercontent.com/render/math?math=log(x^2)">
 
 <details><summary>Click the arrow for the answer.</summary>
 <p>
