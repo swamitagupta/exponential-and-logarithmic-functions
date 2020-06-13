@@ -1,8 +1,20 @@
 # exponential-and-logarithmic-functions
 
-### Contributors are welcome!
+This repo. consists of math practice questions with answers. To motivate you to practice, the answers are hidden until you click to reveal them. Practice away!
 
-## Format
+To start, choose one of the topics below.
+
+| Topic      | 
+| ----------- |
+| [Is a function exponential?](is-this-an-exponential-function.md)|
+| [Expand a logarithm](expand-logarithms.md) |
+
+
+## Contributors are welcome!
+
+Please add to the existing files, or create a new one of your own.
+
+### Format
 Please follow the current Question & Answer format by:
 
 `<details><summary>Click the arrow for the answer.</summary>`
