@@ -20,3 +20,5 @@ Please follow the current Question & Answer format by:
 
 ### Other useful markdown notation
 - Use `<sup> textHere </sup>` to get a superscript
+
+Open-Source-Math is [MIT licensed](LICENSE.md)
