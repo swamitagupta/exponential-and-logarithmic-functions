@@ -53,12 +53,12 @@ Yes.
 
 # Question 5
 
-Is this an exponential function? <img src="https://render.githubusercontent.com/render/math?math=5^{\pi} = -1">
+Is this an exponential function? <img src="https://render.githubusercontent.com/render/math?math=5^{\pi}">
 
 <details><summary>Click the arrow for the answer.</summary>
 
 <p>
 
-No. 
+No. Pi is a constant, not a variable.
 </p>
 </details>
