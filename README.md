@@ -11,8 +11,10 @@ To start, choose one of the topics below.
 | Topic      | 
 | ----------- |
 | [Is a function exponential?](is-this-an-exponential-function.md)|
-| [Expand a logarithm](expand-logarithms.md) |
 | [Write an equation for an exponential function](write-an-equation-for-an-exponential-function.md) |
+| [Expand a logarithm](expand-logarithms.md) |
+| [Condense a logarithm](condense-a-logarithm.md)
+
 
 
 ## Contributors are welcome!
