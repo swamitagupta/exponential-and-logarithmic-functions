@@ -22,7 +22,7 @@ To start, choose one of the topics below.
 Please add to the existing files, or create a new one of your own.
 
 ### Format
-Please follow the current Question & Answer format by:
+Please follow the current Question & Answer format. To get arrow with the hidden answer, use
 
 `<details><summary>Click the arrow for the answer.</summary>`
 
