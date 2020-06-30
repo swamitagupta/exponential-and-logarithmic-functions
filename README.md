@@ -2,29 +2,46 @@
 
 --------------------------------------------------------------------------------
 
-# exponential-and-logarithmic-functions
+# Exponential and Logarithmic Functions
 
-This repo. consists of math practice questions with answers. To motivate you to practice, the answers are hidden until you click to reveal them. Practice away!
+This project aims to provide a collection of questions for quick practice of exponential and logarithmic functions.  
 
-To start, choose one of the topics below.
+Practice questions can be viewed in the browser by choosing from the list of topics linked below. 
+
+To motivate users to work through the questions by themselves first, the answers are only revealed when clicked. 
+
+To start practice, choose from the categories and topics below.
+
+## Practicing Exponential Functions
 
 | Topic      | 
 | ----------- |
-| [Is a function exponential?](is-this-an-exponential-function.md)|
-| [Write an equation for an exponential function](write-an-equation-for-an-exponential-function.md) |
-| [Expand a logarithm](expand-logarithms.md) |
-| [Condense a logarithm](condense-a-logarithm.md)
+| [1. Recognize the exponential function](is-this-an-exponential-function.md)|
+| [2. Write an equation for an exponential function](write-an-equation-for-an-exponential-function.md) 
+
+## Practicing Logarithmic Functions
+
+| Topic      | 
+| ----------- |
+| [1. Expand a logarithm](expand-logarithms.md) |
+| [2. Condense a logarithm](condense-a-logarithm.md)
 
 
+## Contributing to this Project
 
-## Contributors are welcome!
+Contributors are WELCOME! You can contribute in the following ways.
 
-Please add to the existing files, or create a new one of your own.
+- Look at the issues tab for open issues to work on.
+- Create a markdown file for a new topic and add a link to this new file in the appropriate topic and category section.
+- Add or update existing files. 
 
-### Format
-Please follow the current Question & Answer format. To get arrow with the hidden answer, use
+### Recommended Format
 
-`<details><summary>Click the arrow for the answer.</summary>`
+To get an arrow with the hidden answer, use
+
+`<details>`
+
+`<summary>Click the arrow for the answer.</summary>`
 
 `<p>`
 
@@ -34,10 +51,14 @@ Please follow the current Question & Answer format. To get arrow with the hidden
 
 `</details>`
 
-### Math support
-- Latex is currently not supported; For a workaround, see: [A hack for showing LaTeX formulas in GitHub markdown](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b)
+### Math Support
 
-### Other useful markdown notation
-- Use `<sup> textHere </sup>` to get a superscript
+LaTeX is currently not supported. For a workaround, see 
+
+[A hack for showing LaTeX formulas in GitHub markdown](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b)
+
+### Useful Markdown Notation
+
+Use `<sup> superscriptHere </sup>` to get a superscript
 
 Open-Source-Math is [MIT licensed](LICENSE.md)
