@@ -79,7 +79,7 @@ Solving, you get b = 1/4.
 <details><summary>Click the arrow for the answer.</summary>
 <p>
 
-##### Answer: The equation is: <img src="https://render.githubusercontent.com/render/math?math=y = 8 \cdot {\frac{1}{4}}^x">
+##### Answer: The equation is: <img src="https://render.githubusercontent.com/render/math?math=y = 2 \cdot {3}^x">
 
 The general form of an exponential function is y = ab<sup>x</sup>. So, you need to solve for a and b, and then substitute them into the equation.
 
@@ -91,9 +91,9 @@ Let's choose (1,2). Plug the point (1,2) into the general form of an exponential
 
 <img src="https://render.githubusercontent.com/render/math?math=y = a \cdot b^x">
 <p></p>
-<img src="https://render.githubusercontent.com/render/math?math=2 = 8 \cdot b^1">
+<img src="https://render.githubusercontent.com/render/math?math=2 = 2 \cdot b^1">
 <p></p>
-Solving, you get b = 1/4.
+Solving, you get b = 3.
 
 </p>
 </details>
