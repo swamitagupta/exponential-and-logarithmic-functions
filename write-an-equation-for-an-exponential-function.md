@@ -18,6 +18,8 @@ The general form of an exponential function is y = ab<sup>x</sup>. So, you need 
 
 Here, at x = 0, y = 1, so a = 1. To get b, notice that each y-value is multiplied by a factor of 4. 
 
+##### Alternative Explanation:
+
 An alternative way to get b is as follows. Using a = 1 from above, and given that the function is exponential, choose a point.
 Let's choose (1,4). Plug the point (1,4) into the general form of an exponential equation.
 
@@ -52,6 +54,39 @@ Here, at x = 0, y = 8, so a = 8. To get b, notice that each y-value is multiplie
 
 ##### Alternative Explanation:
 An alternative way to get b is as follows. Using a = 8 from above, and given that the function is exponential, choose a point.
+Let's choose (1,2). Plug the point (1,2) into the general form of an exponential equation.
+
+<img src="https://render.githubusercontent.com/render/math?math=y = a \cdot b^x">
+<p></p>
+<img src="https://render.githubusercontent.com/render/math?math=2 = 8 \cdot b^1">
+<p></p>
+Solving, you get b = 1/4.
+
+</p>
+</details>
+
+---
+
+###### 3. You are given the table of values below for an exponential function. Write an equation that models it.
+
+| x | y |
+| --- | ----------- |
+| 0 | 2 |
+| 1 | 8 |
+| 2 | 64 |
+| 3 | 512 |
+
+<details><summary>Click the arrow for the answer.</summary>
+<p>
+
+##### Answer: The equation is: <img src="https://render.githubusercontent.com/render/math?math=y = 8 \cdot {\frac{1}{4}}^x">
+
+The general form of an exponential function is y = ab<sup>x</sup>. So, you need to solve for a and b, and then substitute them into the equation.
+
+Here, at x = 0, y = 2, so a = 2. To get b, notice that each y-value is multiplied by 3. Hence, b = 3. 
+
+##### Alternative Explanation:
+An alternative way to get b is as follows. Using a = 2 from above, and given that the function is exponential, choose a point.
 Let's choose (1,2). Plug the point (1,2) into the general form of an exponential equation.
 
 <img src="https://render.githubusercontent.com/render/math?math=y = a \cdot b^x">
