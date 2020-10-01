@@ -72,9 +72,9 @@ Solving, you get b = 1/4.
 | x | y |
 | --- | ----------- |
 | 0 | 2 |
-| 1 | 8 |
-| 2 | 64 |
-| 3 | 512 |
+| 1 | 6 |
+| 2 | 18 |
+| 3 | 54 |
 
 <details><summary>Click the arrow for the answer.</summary>
 <p>
@@ -94,6 +94,38 @@ Let's choose (1,2). Plug the point (1,2) into the general form of an exponential
 <img src="https://render.githubusercontent.com/render/math?math=2 = 2 \cdot b^1">
 <p></p>
 Solving, you get b = 3.
+
+</p>
+</details>
+
+---
+
+###### 4. You are given the table of values below for an exponential function. Write an equation that models it.
+
+| x | y |
+| --- | ----------- |
+| 0 | 9 |
+| 1 | 0 |
+| 2 | 0 |
+
+<details><summary>Click the arrow for the answer.</summary>
+<p>
+
+##### Answer: The equation is: <img src="https://render.githubusercontent.com/render/math?math=y = 9 \cdot {0}^x">
+
+The general form of an exponential function is y = ab<sup>x</sup>. So, you need to solve for a and b, and then substitute them into the equation.
+
+Here, at x = 0, y = 9, so a = 9. To get b, notice that each y-value is multiplied by 0, since y is 0. Hence, b = 0. 
+
+##### Alternative Explanation:
+An alternative way to get b is as follows. Using a = 9 from above, and given that the function is exponential, choose a point.
+Let's choose (1,2). Plug the point (1,2) into the general form of an exponential equation.
+
+<img src="https://render.githubusercontent.com/render/math?math=y = a \cdot b^x">
+<p></p>
+<img src="https://render.githubusercontent.com/render/math?math=2 = 9 \cdot b^1">
+<p></p>
+Solving, you get b = 0.
 
 </p>
 </details>
