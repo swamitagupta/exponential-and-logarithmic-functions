@@ -129,6 +129,7 @@ Solving, you get b = 0.
 
 </p>
 </details>
+
 ---
 
 ###### 5. You are given the table of values below for an exponential function. Write an equation that models it.
